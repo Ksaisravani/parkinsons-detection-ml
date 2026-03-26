@@ -27,3 +27,4 @@ Achieved better accuracy compared to traditional SVM methods.
 ## 🔮 Future Work
 - Multi-modal data (voice + handwriting)
 - Clinical validation
+Project updated
